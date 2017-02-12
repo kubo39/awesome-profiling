@@ -16,7 +16,7 @@
 - [CPU_CLK_UNHALTEDの値を取得する](http://proc-cpuinfo.fixstars.com/2014/11/cpuclkunhalted.html/)
 - [その他の時間計測方法](http://proc-cpuinfo.fixstars.com/2014/11/blog-post-html-5/)
 
-- [Benchmarking in Rust](http://llogiq.github.io/2015/06/16/bench.html)
+- [Profiling Rust applications on Linux](https://llogiq.github.io/2015/07/15/profiling.html)
 - [Rust Performance: A story featuring perf and flamegraph on Linux](http://blog.adamperry.me/rust/2016/07/24/profiling-rust-perf-flamegraph/)
 
 - [Go pprof 入門編 (CPU Profile とコマンドラインツール)](http://klabgames.tech.blog.jp.klab.com/archives/pprof1-cpuprofile.html)
