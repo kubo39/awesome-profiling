@@ -18,6 +18,7 @@
 
 - [Profiling Rust applications on Linux](https://llogiq.github.io/2015/07/15/profiling.html)
 - [Rust Performance: A story featuring perf and flamegraph on Linux](http://blog.adamperry.me/rust/2016/07/24/profiling-rust-perf-flamegraph/)
+- [How-to Optimize Rust Programs on Linux](https://jbendig.github.io/fix-rs/2017/01/24/how-to-optimize-rust-programs-on-linux/)
 
 - [Go pprof 入門編 (CPU Profile とコマンドラインツール)](http://klabgames.tech.blog.jp.klab.com/archives/pprof1-cpuprofile.html)
 
